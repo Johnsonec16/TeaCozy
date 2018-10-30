@@ -32,7 +32,7 @@ header {
   justify-content: space-between;
   margin: 0;
   z-index: 2;
-
+  background-color: black;
 }
 header img {
   height: 50px;
@@ -54,7 +54,7 @@ header nav {
   top: 69px;
   height: 700px;
   width: 1200px;
-  margin: 0;
+  margin: 0 0 150px 0;
   justify-content: center;
   align-items: center;
 }
@@ -65,3 +65,5 @@ header nav {
   padding: 12px 0;
   margin: 0;
 }
+
+/* Tea of the Month Section */
