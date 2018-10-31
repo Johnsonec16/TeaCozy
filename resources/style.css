@@ -124,3 +124,22 @@ header nav {
   padding-bottom: 25px;
   margin: 0;
 }
+
+/* The Tea Cozy Section */
+.info {
+  margin: 0;
+  padding-top: 20px;
+  height: 200px;
+}
+.info h2 {
+  padding-bottom: 30px;
+}
+.info h5 {
+  position: relative;
+  bottom: 15px;
+}
+.copyright {
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 10px;
+}
