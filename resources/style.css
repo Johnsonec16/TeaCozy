@@ -67,3 +67,21 @@ header nav {
 }
 
 /* Tea of the Month Section */
+
+.tea img {
+  height: 200px;
+  padding-bottom: 8px;
+}
+.tea span {
+  display: inline-flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 0;
+  padding: 18px 12px 0 12px;
+}
+.tea h4 {
+  padding: 13px 0 ;
+}
+.tea h2 {
+  padding-bottom: 7px;
+}
